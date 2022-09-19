@@ -3,5 +3,5 @@ module.exports = {
   PORT: process.env.PORT || 5000,
 
   //secret key
-  secret_key: "RJiYTyA1JraHigoISu7LuGvcNFeHGfgy",
+  secret_key: "AIzaSyBCjICNKU4Yknd4QBpkfE0dBnC2t_lTnf0",
 };
